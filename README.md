@@ -1,2 +1,3 @@
 # HelloWorld
-Lab2
+Sohaib Ahmed
+CSC570 Data Science Essentials
